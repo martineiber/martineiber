@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi, I'm Martin 👋
+
+- 🎓 I'm currently studying Software Engineering
+- ⌨️ I’m currently working on my bachelor thesis about gRPC
+- 🎯 2021 Goal: Contribute to open source projects
+- 📸 Photography is my hobby
+
+# contact me
+Homepage: https://www.martin-eiber.at/ </br>
+LinkedIn: https://www.linkedin.com/in/martin-eiber/ </br>
+Instagram: https://www.instagram.com/martin.eiber/ </br>
 
 <!--
 **martineiber/martineiber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
