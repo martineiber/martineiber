@@ -5,7 +5,11 @@
 - 🎯 2021 Goal: Contribute to open source projects
 - 📸 Photography is my hobby
 
-# contact me
+#### 📈 My GitHub Statistics
+
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sebastianbergmann&show_icons=true&count_private=true&hide_title=true)
+
+#### 📫 How to reach me
 Homepage: https://www.martin-eiber.at/ </br>
 LinkedIn: https://www.linkedin.com/in/martin-eiber/ </br>
 Instagram: https://www.instagram.com/martin.eiber/ </br>
