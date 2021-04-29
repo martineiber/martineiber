@@ -7,7 +7,7 @@
 
 #### 📈 My GitHub Statistics
 
-![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sebastianbergmann&show_icons=true&count_private=true&hide_title=true)
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=martineiber&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&theme=dark)
 
 #### 📫 How to reach me
 Homepage: https://www.martin-eiber.at/ </br>
