@@ -1,30 +1,40 @@
-# Hi, I'm Martin 👋
+<h1 align="center">Hi, I'm Martin Eiber 👋</h1>
 
-- 🎓 I'm currently studying Software Engineering
-- ⌨️ I’m currently working on my bachelor thesis about gRPC
-- 🎯 2021 Goal: Contribute to open source projects
-- 📸 Photography is my hobby
+<p align="center">
+  <strong>Senior Software Engineer | Software Architect | AI Builder</strong>
+</p>
 
-#### 📈 My GitHub Statistics
+<p align="center">
+  <a href="https://eibermartin.com/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/martin-eiber/">LinkedIn</a> ·
+  <a href="mailto:martin@eiber.me">Email</a>
+</p>
 
-![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=martineiber&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&theme=dark)
+I design and deliver digital systems from requirements and architecture through implementation, infrastructure, and launch. With 15+ years of web experience, I focus on maintainable software, dependable platforms, and practical AI workflows.
 
-#### 📫 How to reach me
-Homepage: https://www.martin-eiber.at/ </br>
-LinkedIn: https://www.linkedin.com/in/martin-eiber/ </br>
-Instagram: https://www.instagram.com/martin.eiber/ </br>
+## What I work on
 
-<!--
-**martineiber/martineiber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Building full-stack web products and enterprise digital platforms
+- Designing software architecture and delivery workflows
+- Creating generative AI solutions with LLMs, tools, and agent orchestration
+- Turning complex requirements into clear, reliable releases
 
-Here are some ideas to get you started:
+## Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Senior Software Engineer at Pimcore
+- MSc student in Information Engineering und -Management at the University of Applied Sciences Upper Austria, Campus Hagenberg
+
+## Core skills
+
+- **PHP:** 15+ years
+- **JavaScript:** 10+ years
+- **Symfony:** 5+ years
+- **Pimcore:** 5+ years
+
+## Toolkit
+
+`Generative AI` `LLMs` `AI workflows` `Agent orchestration` `Python` `Keras` `Search Technology` `Microsoft Azure` `Linux Server` `Docker` `MySQL` `REST APIs` `GitHub` `Git` `Jira` `Trello`
+
+## Let's connect
+
+If you want to talk about software engineering, architecture, or AI workflows, reach out through [LinkedIn](https://www.linkedin.com/in/martin-eiber/) or [email](mailto:martin@eiber.me).
